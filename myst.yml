@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3c9fda55-1960-4dd2-a5d1-6be2a7ecea86
+  toc:
+    - file: 0.0-intro.md
+    - file: 0.1-how-to-use.md
+    - file: 0.2-what-is-preprocessing.md
+    - file: 1.0-basic-preprocessing.ipynb
+    - file: 2.0-ica.ipynb
+    - file: 3.0-mar.ipynb
+    - file: xx-supplementary.md
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: files/coneco.png
+    logo: files/coneco.png
