@@ -9,7 +9,7 @@ project:
     - file: 1.0-basic-preprocessing.ipynb
     - file: 2.0-ica.ipynb
     - file: 3.0-mar.ipynb
-    - file: xx-supplementary.md
+    - file: 4.0-supplementary.md
   # title:
   # description:
   # keywords: []
@@ -19,5 +19,5 @@ project:
 site:
   template: book-theme
   options:
-    favicon: files/coneco.png
-    logo: files/coneco.png
+    favicon: files/logo.jpg
+    logo: files/logo.jpg
