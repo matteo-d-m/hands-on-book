@@ -7,8 +7,8 @@ project:
     - file: 0.1-how-to-use.md
     - file: 0.2-what-is-preprocessing.md
     - file: 1.0-basic-preprocessing.ipynb
-    - file: 2.0-ica.ipynb
-    - file: 3.0-mar.ipynb
+    - file: 2.0-mar_bcr.ipynb
+    - file: 3.0-ica.ipynb
     - file: 4.0-supplementary.md
   # title:
   # description:
