@@ -4,9 +4,9 @@ This repository contains the raw files for the open book titled [Lend An Open Ha
 Like the title says, the book is an introductory educational resource on the art and science of TMS-EEG signal preprocessing. 
 
 > [!NOTE]
-> Being _introductory_ and _educational_, the material has no pretense of being exhaustive or of reaching the best possible precision. Its target audience are complete 
-> beginners &mdash; for example, undergraduate students &mdash; who need the understand what TMS-EEG data look like, what challenges they pose, and how they can start tackling 
-> them. For this reason, readers who seek detailed treatment of advanced preprocessing methods should look elsewhere. The book contains a chapter (Supplementary Materials) that > provides many pointers to further, more advanced learning resources.
+> Being _introductory_ and _educational_, the material has no pretense of being exhaustive or of reaching maximum precision, while the language is intentionally informal. The 
+> target audience are complete beginners &mdash; for example, undergraduate students &mdash; who need the understand what TMS-EEG data look like, what challenges they pose, and how they can start tackling them. For this reason, readers who seek detailed treatment of advanced preprocessing methods should look elsewhere. The book contains a chapter 
+>(Supplementary Materials) that provides many pointers to further, more advanced learning resources.
 
 
 ## Development Status & Contributing
