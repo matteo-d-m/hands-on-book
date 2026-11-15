@@ -10,7 +10,7 @@ project:
     - file: 2.0-mar_bcr.ipynb
     - file: 3.0-ica.ipynb
     - file: 4.0-last-steps.ipynb
-    - file: 3.0-closing-remarks.md
+    - file: 5.0-closing-remarks.md
     - file: 6.0-supplementary.md
   # title:
   # description:
